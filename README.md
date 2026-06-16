@@ -63,6 +63,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [arXiv](https://arxiv.org/) – Primary repository for ML and AI research papers.
 - [Papers With Code](https://paperswithcode.com/) – SOTA benchmarks and paper-to-code mappings.
 - [ar5iv](https://ar5iv.labs.arxiv.org/) – Effortless HTML versions of arXiv papers.
+- [BGPT](https://bgpt.pro/mcp/) – API/MCP server returning structured evidence from full-text papers (methods, limitations, COI, quality scores).
 - [Semantic Scholar](https://www.semanticscholar.org/) – AI-powered academic search engine.
 - [Connected Papers](https://www.connectedpapers.com/) – Visual graph exploration of related research.
 - [ResearchRabbit](https://www.researchrabbit.ai/) – Visual discovery tool for academic literature networks.
